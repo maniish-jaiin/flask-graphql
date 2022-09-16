@@ -14,7 +14,7 @@ graphql-relay==0.4.5
 graphql-server-core==1.1.1
 itsdangerous==1.1.0
 Jinja2==2.10
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 passlib==1.7.1
 promise==2.2.1
